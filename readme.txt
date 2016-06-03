@@ -1,5 +1,5 @@
 === Login Location Notifier ===
-Contributors: clarionwpdeveloper, Mangesh Kode
+Contributors: clarionwpdeveloper, mangeshkode87
 Tags: login notification,location notification,login location notification,login notifier, location notifier, login location notifier
 Requires at least: 3.0.1
 Tested up to: 4.5
