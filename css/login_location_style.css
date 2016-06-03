@@ -1,0 +1,9 @@
+#lln-form label.error {
+    display: inline;
+    margin-left: 10px;
+    width: auto;
+}
+form.llnfrm label.error, label.error {
+    color: red;
+    font-style: italic;
+}
